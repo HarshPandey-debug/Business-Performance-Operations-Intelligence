@@ -1,0 +1,15 @@
+
+{
+  "total_sales": 12289809.16,
+  "total_profit": 1431845.87,
+  "profit_margin_pct": 11.65,
+  "yearly_sales_growth_pct": {
+    "2012": 18.50,
+    "2013": 27.20,
+    "2014": 15.90
+  },
+  "negative_profit_discount_bands": [
+    "21–40%",
+    "Above 40%"
+  ]
+}
