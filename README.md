@@ -115,6 +115,20 @@ Open the local URL displayed in the terminal.
 - Connect the application to a refreshable data source
 - Add deeper product and regional profitability analysis
 - Include automated data-quality checks
+
+
+## Screenshots
+
+### Power BI Dashboard
+
+![Power BI Dashboard](power-bi-dashboard.png)
+
+### AI Business Insights Assistant
+
+![AI Business Insights Assistant](ai-insights-assistant(1).png)
+
+![AI Business Insights Assistant - Report](ai-insights-assistant(2).png)
+
 - Improve AI report evaluation and reproducibility
 
 ## Disclaimer
